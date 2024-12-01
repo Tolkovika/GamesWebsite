@@ -1,8 +1,9 @@
 # Minecraft
 
-![Minecraft Logo](https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-logo.jpg)
+![Minecraft Logo](https://i.imgur.com/minecraft-logo.jpg)
 
-![Minecraft Gameplay](https://www.minecraft.net/content/dam/games/minecraft/screenshots/Minecraft-screenshot1.jpg)
+![Minecraft Gameplay](https://i.imgur.com/minecraft-screenshot1.jpg)
+
 
 ## Overview
 
