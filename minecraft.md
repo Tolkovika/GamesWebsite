@@ -1,5 +1,9 @@
 # Minecraft
 
+![Minecraft Logo](https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-logo.jpg)
+
+![Minecraft Gameplay](https://www.minecraft.net/content/dam/games/minecraft/screenshots/Minecraft-screenshot1.jpg)
+
 ## Overview
 
 **Minecraft** is a sandbox video game developed by **Mojang Studios**. Set in a procedurally generated, blocky world, players can explore, build, and survive in a game that emphasizes creativity and resourcefulness.
