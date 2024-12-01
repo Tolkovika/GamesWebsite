@@ -12,7 +12,7 @@ The game blends first-person shooter mechanics with RPG elements, offering a dee
 - Dynamic story with multiple endings
 - Stunning visuals and a cyberpunk aesthetic
 
-![Cyberpunk 2077 Night City](https://cdn.architekturaibiznes.pl/fullquality/upload/cms_aktualnosci/6815/images/kadr12/fit/730x480/night-city-z-cyberpunk-121332.jpg)
+![Cyberpunk 2077 Night City](NightCity.jpg)
 ![Cyberpunk 2077 V Character](https://cdnb.artstation.com/p/assets/images/images/033/792/617/large/lea-leonowicz-v-male-01.jpg?1610571207)
 
 ## Resources
